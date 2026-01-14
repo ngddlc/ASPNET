@@ -96,7 +96,7 @@
               "RelativeDocumentMoniker": "CollegeSchedule\\Controllers\\ScheduleController.cs",
               "ToolTip": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Controllers\\ScheduleController.cs",
               "RelativeToolTip": "CollegeSchedule\\Controllers\\ScheduleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T12:14:44.814Z",
               "EditorCaption": ""
@@ -111,8 +111,7 @@
               "RelativeToolTip": "CollegeSchedule\\Services\\ScheduleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T09:05:54.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T09:05:54.161Z"
             },
             {
               "$type": "Document",
@@ -172,8 +171,7 @@
               "RelativeToolTip": "CollegeSchedule\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T08:58:27.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T08:58:27.833Z"
             },
             {
               "$type": "Document",
