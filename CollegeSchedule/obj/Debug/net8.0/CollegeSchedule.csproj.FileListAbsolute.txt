@@ -146,3 +146,4 @@ C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\refint\CollegeSche
 C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.pdb
 C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.genruntimeconfig.cache
 C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\ref\CollegeSchedule.dll
+C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.sourcelink.json
