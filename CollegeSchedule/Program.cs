@@ -1,4 +1,5 @@
 using CollegeSchedule.Data;
+using CollegeSchedule.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,6 +14,8 @@ var connectionString = $"Host={Environment.GetEnvironmentVariable("DB_HOST")};" 
 $"Password={Environment.GetEnvironmentVariable("DB_PASSWORD")}";
 builder.Services.AddDbContext<AppDbContext>(options =>
  options.UseNpgsql(connectionString));
+
+builder.Services.AddScoped<IScheduleService, ScheduleService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

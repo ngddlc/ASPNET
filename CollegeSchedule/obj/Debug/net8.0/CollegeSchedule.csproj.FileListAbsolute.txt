@@ -147,3 +147,5 @@ C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.pd
 C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.genruntimeconfig.cache
 C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\ref\CollegeSchedule.dll
 C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\obj\Debug\net8.0\CollegeSchedule.sourcelink.json
+C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\ngdd\Desktop\ASPNET\CollegeSchedule\bin\Debug\net8.0\Sprache.dll
