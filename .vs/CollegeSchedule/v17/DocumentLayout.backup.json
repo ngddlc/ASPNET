@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ngdd\\Desktop\\ASPNET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02F43329-FF73-49E1-8998-0FF179328A88}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\ngdd\\desktop\\aspnet\\collegeschedule\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F43329-FF73-49E1-8998-0FF179328A88}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02F43329-FF73-49E1-8998-0FF179328A88}|CollegeSchedule\\CollegeSchedule.csproj|c:\\users\\ngdd\\desktop\\aspnet\\collegeschedule\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02F43329-FF73-49E1-8998-0FF179328A88}|CollegeSchedule\\CollegeSchedule.csproj|solutionrelative:collegeschedule\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CollegeSchedule\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CollegeSchedule\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:44:21.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Schedule.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\Schedule.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Schedule.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Weekday.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\Weekday.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Weekday.cs",
@@ -75,12 +92,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\Weekday.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:33:34.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:33:34.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Teacher.cs",
@@ -88,12 +104,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:33:19.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:33:19.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Subject.cs",
@@ -101,12 +116,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\Subject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:33:05.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:33:05.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\StudentGroup.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\StudentGroup.cs",
@@ -114,12 +128,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\StudentGroup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:32:53.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:32:53.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Specialty.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\Specialty.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Specialty.cs",
@@ -127,12 +140,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\Specialty.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:32:39.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:32:39.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LessonTime.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\LessonTime.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\LessonTime.cs",
@@ -140,12 +152,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\LessonTime.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:32:09.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:32:09.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LessonGroupPart.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\LessonGroupPart.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\LessonGroupPart.cs",
@@ -153,12 +164,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\LessonGroupPart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:31:45.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:31:45.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Classroom.cs",
@@ -166,12 +176,11 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\Classroom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:31:09.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:31:09.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Building.cs",
               "DocumentMoniker": "C:\\Users\\ngdd\\Desktop\\ASPNET\\CollegeSchedule\\Models\\Building.cs",
               "RelativeDocumentMoniker": "CollegeSchedule\\Models\\Building.cs",
@@ -179,8 +188,7 @@
               "RelativeToolTip": "CollegeSchedule\\Models\\Building.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T07:29:23.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:29:23.17Z"
             }
           ]
         }
