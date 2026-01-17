@@ -2,6 +2,7 @@
 using CollegeSchedule.DTO;
 using CollegeSchedule.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
 namespace CollegeSchedule.Services
 {
     public class ScheduleService : IScheduleService

@@ -1,4 +1,5 @@
-﻿using CollegeSchedule.Data;
+﻿using System;
+using CollegeSchedule.Data;
 using CollegeSchedule.Models;
 using CollegeSchedule.Services;
 using Microsoft.AspNetCore.Mvc;
